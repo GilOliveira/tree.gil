@@ -1,7 +1,7 @@
-# 3D Theme
-This template was created by [Farell Faiz](http://github.com/farellfaiz/ "Farell Faiz").
+# tree.gil.is
+My personal link tree located at [tree.gil.is](https://tree.gil.is).
 
-![Preview](https://raw.githubusercontent.com/farellfaiz/LinkFree/master/Templates/3D%20Theme/preview.png "Preview")
+Originally forked from a template created by [Farell Faiz](http://github.com/farellfaiz/ "Farell Faiz").
 
-#### Demo
-https://michaelbarney.github.io/LinkFree/Templates/3D%20Theme/
+The main mirror of this repository is hosted on [GitLab](https://gitlab.com/GilOliveira/tree.gil) and the website is automatically generated using GitLab CI.
+
